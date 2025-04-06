@@ -2,8 +2,8 @@
  web development project 
 
 ## 👥 Team Members
-- **Abhishek Jadli**  
 - **Hariom Patidar**  
+- **Abhishek Jadli**  
 
 ## 📄 Abstract
 

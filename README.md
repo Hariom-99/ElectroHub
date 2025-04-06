@@ -1,5 +1,5 @@
 #  📦 ElectroHub – Renting & Selling Electronic Components
-its my 4th semester web development project 
+ web development project 
 
 ## 👥 Team Members
 - **Abhishek Jadli**  
